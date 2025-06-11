@@ -7,7 +7,7 @@
     // })
 
 
-    //IMP: Validator function used in define props- can be used for some basic authentication 
+    // IMP: Validator function used in define props- can be used for some basic authentication 
 
     const props = defineProps({
         name: {
